@@ -85,9 +85,8 @@ const Footer = () => {
         </div>
         
         <div className="border-t border-border/40 mt-8 pt-8 flex flex-col md:flex-row justify-between text-muted-foreground text-sm">
-          <div>&copy; {new Date().getFullYear()} DarkWrite. All rights reserved.</div>
+          <div>&copy; {new Date().getFullYear()} Ravenwords. All rights reserved.</div>
           <div className="mt-2 md:mt-0">
-            Built with 💙 for writers around the globe
           </div>
         </div>
       </div>
